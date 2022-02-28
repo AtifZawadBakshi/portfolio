@@ -69,12 +69,12 @@ nav ul li {
   display: inline-block;
   padding: 2px px;
 }
-.about {
+.home {
   background-color: #b4d2ba;
   width: 100%;
-  padding: 100px 0px;
+  padding: 200px 0px;
 }
-.about-text {
+.home-text {
   width: 550px;
 }
 .main {
@@ -83,4 +83,12 @@ nav ul li {
   margin: auto;
   display: flex;
   align-items: center;
+}
+h1 {
+  font-family: "Anton", sans-serif;
+  font-size: 60px;
+}
+h4,
+h3 {
+  font-family: "Lobster", cursive;
 }
